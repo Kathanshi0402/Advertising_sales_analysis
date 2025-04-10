@@ -54,8 +54,3 @@ This project investigates the impact of advertising budgets across different med
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Kathanshi0402/Advertising_sales_analysis.git
